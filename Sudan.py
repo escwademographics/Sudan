@@ -52,7 +52,7 @@ if submit and email == actual_email and password == actual_password:
         st.image("SUB HEADER.PNG")
     col1, col2, col3, col4, col5, col6, col7 = st.columns(7)
     with col1:
-        st.write("[Population - السكان](https://docs.google.com/spreadsheets/d/1KsKib7QD4l2vewOJDlU8qMaGYvrZCAd1/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
+        st.write("[Population - السكان](https://docs.google.com/spreadsheets/d/13o86sVbxFHtWc8LHPRne4zU8BXbHxNtf/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col2:
         st.write("[Labor - العمالة](https://docs.google.com/spreadsheets/d/15aM0vvFPUsPp04Zk5qY9RnIK2AtzNjDq/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col3:
